@@ -31,7 +31,7 @@ ReactDOM.render(
 )
 ```
 
-### Step 2: You can use Reflex components in pages.
+### You can now use Reflex components in pages.
 
 ```jsx
 import {
